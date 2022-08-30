@@ -87,7 +87,10 @@ TIME TO CONVERT JSON list based batching INTO APPLICATION DOS WITH BURPSUITE (*N
 
 4. Start the attack, go to repeater send the request and observe the response and try to load the web page.
 
-Tried on third-party hosted graphql, it was quite effective and SOMETIMES  ATTACK WILL FAIL IF TARGET HAVE CLOUDLFLARE 
+Tried on third-party hosted graphql, it was quite effective and SOMETIMES ATTACK WILL FAIL IF TARGET HAVE CLOUDLFLARE 
+
+
+
 
 
 
