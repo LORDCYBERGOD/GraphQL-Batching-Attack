@@ -12,7 +12,7 @@ https://github.com/assetnote/batchql
 Recommdated Command: (*cautions* may cause the hyper stress in backend)
 
 
-python3 batch.py -e https://ENDPOINT -w wordlist -p localhost:8080 -s 5000 
+python3 batch.py -e https://ENDPOINT -w wordlist -p localhost:8080 -s 5000 (*you can increase the size of payload and you can see, is it causing stress on application or not) 
 
 
 
