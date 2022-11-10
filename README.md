@@ -1,4 +1,4 @@
-Graphql Batching Attack to Application Level DOS
+**Graphql Batching Attack to Application Level DOS**
 
 GraphQL is designed in a way that allows you to write clean code on the server, where every field on every type has a focused single-purpose function for resolving that value. However, without additional consideration, a naive GraphQL service could be very “chatty” or repeatedly load data from your databases.
 
